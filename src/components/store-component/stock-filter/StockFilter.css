@@ -1,0 +1,13 @@
+p{
+    margin: 0;
+    font-size: xx-small;
+}
+
+.input-text{
+    width: 100%;
+}
+
+.checkbox-text{
+    display: flex;
+    align-items: center;
+}
